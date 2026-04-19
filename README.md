@@ -235,7 +235,7 @@ Open: **http://localhost:5173**
 
 ## 👨‍💻 Developer
 
-**Sanjeev Maurya** — Full-Stack MERN Developer
+**Snehil Singh** — Full-Stack MERN Developer
 
 ---
 
